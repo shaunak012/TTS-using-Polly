@@ -39,11 +39,11 @@ I want to explore AWS services beyond theory and build a cloud-based tool that c
 ---
 
 ## 📈 Next Steps  
-1. Draw architecture diagram  
-2. Set up Lambda function  
-3. Integrate with Polly  
-4. Test with sample text  
-5. (Optional) Connect with API Gateway  
-6. (Optional) Store audio in S3  
-7. Document the deployment steps  
+1. ~~Draw architecture diagram~~ 
+2. ~~Set up Lambda function~~   
+3. ~~Integrate with Polly~~  
+4. ~~Test with sample text~~  
+5. ~~(Optional) Connect with API Gateway~~   
+6. ~~(Optional) Store audio in S3~~  
+7. ~~Document the deployment steps~~  
 8. Create a LinkedIn post

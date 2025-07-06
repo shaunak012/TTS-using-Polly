@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS system files
+.DS_Store
+
+# AWS credentials (if you ever have a .aws/ folder here — keep out)
+.aws/
+
+# Environment files
+.env
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE project files
+.vscode/
+.idea/
+*.swp
+
+# Log files
+*.log
+
+# Local test outputs
+output.mp3
+*.mp3
+
+# Temporary files
+*.tmp
+*.bak
+
+# Archive files
+*.zip
+*.tar.gz
+
+# Diagrams exports (optional if you generate diagrams)
+*.png
+*.svg
