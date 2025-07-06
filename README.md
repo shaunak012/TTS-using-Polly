@@ -30,10 +30,8 @@ This project converts input text to speech using Amazon Polly and securely retur
 
 ```http
 Headers:
-  {
-    Content-Type: application/json
-    x-api-key: YOUR_API_KEY
-  }
+  Content-Type: application/json.
+  x-api-key: YOUR_API_KEY
 
 Body:
   {
