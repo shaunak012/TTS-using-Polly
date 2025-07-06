@@ -33,7 +33,7 @@ Headers:
   {
     Content-Type: application/json
     x-api-key: YOUR_API_KEY
-  
+  }
 
 Body:
   {
