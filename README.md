@@ -45,9 +45,11 @@ Response:
 ```
 
 
-## 📺 Demo Video (Coming Soon)
+## 📺 Demo Video 
 
-A video walkthrough of the project, live API calls, and how the secure pre-signed URLs work will be available on [LinkedIn](https://www.linkedin.com/in/shaunak-shukla/).
+A video walkthrough of the project, live API calls, and how the secure pre-signed URLs work :
+[Demo Video](demo.mp4)
+
 
 ---
 

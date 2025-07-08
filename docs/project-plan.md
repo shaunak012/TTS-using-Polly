@@ -46,4 +46,4 @@ I want to explore AWS services beyond theory and build a cloud-based tool that c
 5. ~~(Optional) Connect with API Gateway~~   
 6. ~~(Optional) Store audio in S3~~  
 7. ~~Document the deployment steps~~  
-8. Create a LinkedIn post
+8. ~~Create a LinkedIn post~~
