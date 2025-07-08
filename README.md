@@ -48,7 +48,7 @@ Response:
 ## 📺 Demo Video 
 
 A video walkthrough of the project, live API calls, and how the secure pre-signed URLs work :
-[Demo Video](demo.mp4)
+[Demo Video](https://shaunak012.github.io/TTS-using-Polly/demo.mp4)
 
 
 ---
